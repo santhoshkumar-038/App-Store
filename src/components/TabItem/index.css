@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.tab-item {
+  padding-right: 20px;
+}
+.tab-text {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  cursor: pointer;
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+}
+.apply-border {
+  border-bottom: 3px solid #2563eb;
+}
+.apply-color {
+  color: #2563eb;
+}
